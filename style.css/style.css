@@ -88,9 +88,9 @@ body{
 .third-page-banner{
     width: 1320px;
     height: 600px;
+    border-radius: 16px;
     margin: 0 auto;
     margin-top: 120px;
-    border: 2px solid red;
     background-image: url(../images/vectorrr.png);
     background-position: center;
     background-size: cover;
