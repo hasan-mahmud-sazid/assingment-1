@@ -91,7 +91,7 @@ body{
     border-radius: 16px;
     margin: 0 auto;
     margin-top: 120px;
-    background-image: url(../images/vectorrr.png);
+    background-image: url("../images/vectorrr.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
